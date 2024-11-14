@@ -24,6 +24,6 @@ if __name__ == "__main__":
     quiz = Quiz()
     
     # Adding and displaying questions
-quiz.add_question("What is the capital of Canada?", ["Ottawa", "Toronto", "Vancouver", "Montreal"], "Ottawa")
-quiz.add_question("What is 27 squared?", ["627", "729", "707", "751"], "729")
-quiz.display_questions()
+    quiz.add_question("What is the capital of Canada?", ["Ottawa", "Toronto", "Vancouver", "Montreal"], "Ottawa")
+    quiz.add_question("What is 27 squared?", ["627", "729", "707", "751"], "729")
+    quiz.display_questions()
