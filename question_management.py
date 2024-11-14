@@ -1,4 +1,4 @@
-# question_management.py
+# question_management.py - by Harmanpreet Deo
 
 class Question:
     def __init__(self, question_text, options, correct_answer):
