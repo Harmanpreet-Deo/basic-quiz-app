@@ -1,4 +1,4 @@
-# main_quiz_app.py
+# main_quiz_app.py - by Harmanpreet Deo
 
 from question_management import Quiz as QuizManager
 from quiz_functionality import Quiz as QuizTaker
